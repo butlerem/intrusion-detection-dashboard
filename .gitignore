@@ -1,0 +1,29 @@
+# Ignore virtual environment
+
+venv/
+
+# Ignore Python cache files
+
+**pycache**/
+\*.py[cod]
+
+# Ignore Jupyter notebook checkpoints (if any)
+
+.ipynb_checkpoints/
+
+# Ignore macOS system files (if you're on mac)
+
+.DS_Store
+
+# Ignore VSCode settings (if you're using it)
+
+.vscode/
+
+# Ignore logs or temp files
+
+_.log
+_.tmp
+
+# Ignore model files if they're too big (optional)
+
+\*.pkl
