@@ -10,9 +10,9 @@
 
 ## Model Info
 
-## | Model | Recall | Precision | F1 Score | Threshold |
-
-## | LightGBM | 87.1% | 62.8% | 73.0% | 0.2 |
+| Model    | Recall   | Precision | F1 Score | Threshold |
+------------------------------------------------------------
+| LightGBM | 87.1%    | 62.8%     | 73.0%    | 0.2       |
 
 ## Features
 
